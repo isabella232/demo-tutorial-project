@@ -48,7 +48,7 @@ fun disableUI(disable: Bool){
 
 Curabitur at velit molestie, lobortis mauris sit amet, faucibus ligula. Phasellus vel mattis ante. Nunc leo nulla, semper vitae tincidunt non, commodo nec quam. Integer viverra lacus ac orci bibendum consectetur. Sed ullamcorper ipsum ac placerat consequat. Ut quis ligula a nisi accumsan dictum in non mauris. Praesent aliquet ligula id lectus sagittis ornare. Vestibulum semper hendrerit lorem. Suspendisse consectetur interdum lacus, id rhoncus lorem finibus nec.
 
-![full width screenshot](https://github.com/sinch/sinch-slack-sms/raw/master/img/slack-command.png)
+<img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="400px" alt="flot left" style="max-width:100%; float:left;">
 
 In hac habitasse platea dictumst. Donec eros diam, viverra quis blandit vitae, bibendum in quam. Vivamus mollis bibendum libero vitae condimentum. Sed nec tincidunt nibh. Mauris varius posuere turpis nec commodo. Vestibulum at tortor accumsan orci tempus porta. Morbi dui libero, lacinia non lobortis ac, sollicitudin non sem. Phasellus convallis sem et sem sagittis, eget vulputate ligula fringilla. Nulla facilisi. Donec non efficitur tortor. Pellentesque tempor malesuada diam, id hendrerit massa mollis eget.
 
