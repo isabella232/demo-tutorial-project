@@ -60,7 +60,7 @@ override func viewWillAppear(animated: Bool) {
 ````
 
 
-<img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="400px" alt="flot left" style="max-width:100%;">
+<img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="400px" alt="flot left" style="max-width:100%; float:left;">
 
 Aenean feugiat dignissim est, sit amet ultrices massa tristique non. Ut eu sodales metus. Sed egestas augue quis feugiat hendrerit. Suspendisse viverra quam pharetra, volutpat turpis vitae, suscipit enim. Curabitur at orci nec quam varius pellentesque quis sed nibh. Aliquam in quam sed felis mattis condimentum ut id sem. Duis vitae mattis massa. Donec aliquam risus eu lacinia mattis. Nullam fringilla laoreet augue in dictum. Curabitur non varius libero, at pulvinar nunc. Sed tristique feugiat est, et consequat elit lobortis sed. Aliquam facilisis mollis lacus, consequat eleifend erat vulputate quis. Proin vitae velit erat. Donec auctor ac libero ut bibendum.
 
