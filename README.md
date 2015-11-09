@@ -60,11 +60,11 @@ override func viewWillAppear(animated: Bool) {
 ````
 
 
-![phone float left](https://github.com/sinch/ios-swift-verification-tutorial/raw/master/images/screen2.png)
+<img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="400px" alt="flot left" style="max-width:100%;">
 
 Aenean feugiat dignissim est, sit amet ultrices massa tristique non. Ut eu sodales metus. Sed egestas augue quis feugiat hendrerit. Suspendisse viverra quam pharetra, volutpat turpis vitae, suscipit enim. Curabitur at orci nec quam varius pellentesque quis sed nibh. Aliquam in quam sed felis mattis condimentum ut id sem. Duis vitae mattis massa. Donec aliquam risus eu lacinia mattis. Nullam fringilla laoreet augue in dictum. Curabitur non varius libero, at pulvinar nunc. Sed tristique feugiat est, et consequat elit lobortis sed. Aliquam facilisis mollis lacus, consequat eleifend erat vulputate quis. Proin vitae velit erat. Donec auctor ac libero ut bibendum.
 
-![phone 1](https://github.com/sinch/ios-swift-verification-tutorial/raw/master/images/screen2.png)![phone 2](https://github.com/sinch/ios-swift-verification-tutorial/raw/master/images/screen2.png)
+<img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;"><img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;">
 
 Nullam cursus sem at interdum sagittis. Nam iaculis elementum odio nec porta. Praesent in euismod sapien. Nulla nulla tellus, mattis at elementum sed, bibendum quis sapien. Curabitur et est at massa fermentum vestibulum bibendum eget urna. Proin ut sagittis ante, iaculis molestie risus. Duis quis sem ipsum. Integer pretium enim at nisl gravida, vel interdum nisi blandit. Proin quis elementum justo. Fusce nec pretium tellus, eu suscipit velit. Nullam sodales nibh nec congue venenatis. Donec id metus non metus mattis pellentesque. In sollicitudin elementum scelerisque. Pellentesque et iaculis leo, eu ornare magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
