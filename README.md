@@ -2,6 +2,8 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac nunc nec orci aliquam dapibus eleifend et turpis. Sed varius justo id nulla fermentum, non elementum tortor consectetur. Praesent laoreet venenatis enim, at pellentesque orci ornare non. Nam pharetra turpis non massa hendrerit, nec varius tellus laoreet. Aliquam varius dictum velit, non molestie erat aliquet quis. Curabitur in aliquam mauris, sit amet ultricies eros. Fusce sagittis mi sit amet tortor cursus bibendum id tempor massa. Curabitur viverra risus at ligula molestie, pretium laoreet neque interdum. Phasellus dictum lacus quis diam fringilla porttitor. Duis bibendum ornare odio non iaculis. Quisque et arcu id nisi varius sollicitudin. Donec tristique quam ac magna aliquam dignissim.
 
+## Getting Started
+
 ````swift
 @IBAction fun calloutVerification(sender: AnyObject) {
     disableUI(true);
@@ -48,6 +50,7 @@ fun disableUI(disable: Bool){
 }
 ````
 
+## Adding Controllers
 
 Curabitur at velit molestie, lobortis mauris sit amet, faucibus ligula. Phasellus vel mattis ante. Nunc leo nulla, semper vitae tincidunt non, commodo nec quam. Integer viverra lacus ac orci bibendum consectetur. Sed ullamcorper ipsum ac placerat consequat. Ut quis ligula a nisi accumsan dictum in non mauris. Praesent aliquet ligula id lectus sagittis ornare. Vestibulum semper hendrerit lorem. Suspendisse consectetur interdum lacus, id rhoncus lorem finibus nec.
 
@@ -65,11 +68,15 @@ override func viewWillAppear(animated: Bool) {
 
 Aenean feugiat dignissim est, sit amet ultrices massa tristique non. Ut eu sodales metus. Sed egestas augue quis feugiat hendrerit. Suspendisse viverra quam pharetra, volutpat turpis vitae, suscipit enim. Curabitur at orci nec quam varius pellentesque quis sed nibh. Aliquam in quam sed felis mattis condimentum ut id sem. Duis vitae mattis massa. Donec aliquam risus eu lacinia mattis. Nullam fringilla laoreet augue in dictum. Curabitur non varius libero, at pulvinar nunc. Sed tristique feugiat est, et consequat elit lobortis sed. Aliquam facilisis mollis lacus, consequat eleifend erat vulputate quis. Proin vitae velit erat. Donec auctor ac libero ut bibendum.
 
+### Swift SDK Features
+
 <img src="images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;"><img src="images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;">
 
 Nullam cursus sem at interdum sagittis. Nam iaculis elementum odio nec porta. Praesent in euismod sapien. Nulla nulla tellus, mattis at elementum sed, bibendum quis sapien. Curabitur et est at massa fermentum vestibulum bibendum eget urna. Proin ut sagittis ante, iaculis molestie risus. Duis quis sem ipsum. Integer pretium enim at nisl gravida, vel interdum nisi blandit. Proin quis elementum justo. Fusce nec pretium tellus, eu suscipit velit. Nullam sodales nibh nec congue venenatis. Donec id metus non metus mattis pellentesque. In sollicitudin elementum scelerisque. Pellentesque et iaculis leo, eu ornare magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
 ![image 2](images/image2.png)
+
+## Finishing Up
 
 Aliquam erat volutpat. Sed ut ornare urna, eget luctus purus. Donec cursus nunc et convallis commodo. Maecenas dictum viverra posuere. Cras dictum ipsum id pretium luctus. Sed accumsan quam at quam laoreet pulvinar. Suspendisse id diam rhoncus mi posuere mollis. Quisque ex tellus, gravida a rhoncus interdum, pellentesque ut enim. Morbi sit amet blandit elit. Aenean vitae pretium nulla. Nam eget ullamcorper nulla. Pellentesque pellentesque rhoncus eleifend. Curabitur congue nec ipsum at eleifend. Sed non nulla nisl. Praesent ultricies neque eu eros facilisis, rutrum rutrum libero semper.
 
