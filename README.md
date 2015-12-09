@@ -17,6 +17,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac nunc nec orci a
 
 Cras iaculis nisi nec odio aliquet, eu lobortis ipsum maximus. Aenean nec nunc sollicitudin, pulvinar enim rutrum, feugiat est. Nunc semper nisi leo. Praesent sed iaculis elit, eget egestas ipsum. Pellentesque sed felis ac justo viverra hendrerit eget ac augue. Aliquam pharetra tellus in porta viverra. Donec et semper nisi. Sed orci urna, gravida non nisl et, commodo facilisis odio. Sed lobortis dui quis scelerisque luctus. Phasellus accumsan leo in placerat faucibus. Sed fermentum diam turpis, ut ultrices diam mollis in. Aliquam convallis, magna et pharetra faucibus, eros libero viverra arcu, non egestas ligula mauris eu ante. Nunc vulputate viverra rutrum. Aliquam erat volutpat. Cras hendrerit ante sit amet lectus bibendum blandit.
 
+![image 1](images/image1.jpg)
+
+
 ````swift
 fun disableUI(disable: Bool){
     var alpha:CGFloat = 1.0; // if enabled alpha is 1
@@ -58,13 +61,15 @@ override func viewWillAppear(animated: Bool) {
 ````
 
 
-<img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="400px" alt="float left" style="max-width:100%;" class="float-left">
+<img src="images/screenshot.png" width="400px" alt="float left" style="max-width:100%;" class="float-left">
 
 Aenean feugiat dignissim est, sit amet ultrices massa tristique non. Ut eu sodales metus. Sed egestas augue quis feugiat hendrerit. Suspendisse viverra quam pharetra, volutpat turpis vitae, suscipit enim. Curabitur at orci nec quam varius pellentesque quis sed nibh. Aliquam in quam sed felis mattis condimentum ut id sem. Duis vitae mattis massa. Donec aliquam risus eu lacinia mattis. Nullam fringilla laoreet augue in dictum. Curabitur non varius libero, at pulvinar nunc. Sed tristique feugiat est, et consequat elit lobortis sed. Aliquam facilisis mollis lacus, consequat eleifend erat vulputate quis. Proin vitae velit erat. Donec auctor ac libero ut bibendum.
 
-<img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;"><img src="https://github.com/sinch/ios-video-introduction/raw/master/images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;">
+<img src="images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;"><img src="images/screenshot.png" width="290px" alt="enable verification" style="max-width:100%;">
 
 Nullam cursus sem at interdum sagittis. Nam iaculis elementum odio nec porta. Praesent in euismod sapien. Nulla nulla tellus, mattis at elementum sed, bibendum quis sapien. Curabitur et est at massa fermentum vestibulum bibendum eget urna. Proin ut sagittis ante, iaculis molestie risus. Duis quis sem ipsum. Integer pretium enim at nisl gravida, vel interdum nisi blandit. Proin quis elementum justo. Fusce nec pretium tellus, eu suscipit velit. Nullam sodales nibh nec congue venenatis. Donec id metus non metus mattis pellentesque. In sollicitudin elementum scelerisque. Pellentesque et iaculis leo, eu ornare magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+![image 2](images/image2.png)
 
 Aliquam erat volutpat. Sed ut ornare urna, eget luctus purus. Donec cursus nunc et convallis commodo. Maecenas dictum viverra posuere. Cras dictum ipsum id pretium luctus. Sed accumsan quam at quam laoreet pulvinar. Suspendisse id diam rhoncus mi posuere mollis. Quisque ex tellus, gravida a rhoncus interdum, pellentesque ut enim. Morbi sit amet blandit elit. Aenean vitae pretium nulla. Nam eget ullamcorper nulla. Pellentesque pellentesque rhoncus eleifend. Curabitur congue nec ipsum at eleifend. Sed non nulla nisl. Praesent ultricies neque eu eros facilisis, rutrum rutrum libero semper.
 
